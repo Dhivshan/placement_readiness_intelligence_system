@@ -1,0 +1,5 @@
+Job Title: Software Engineer
+Required Skills: Java, Spring Boot, Docker, AWS
+Critical Skills: Java, Spring Boot
+Optional Skills: Kubernetes, React
+Responsibilities: Backend development, API integration, Cloud deployment

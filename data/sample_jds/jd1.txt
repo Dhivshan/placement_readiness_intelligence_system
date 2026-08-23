@@ -1,0 +1,5 @@
+Job Title: Data Analyst
+Required Skills: Python, SQL, Tableau, Machine Learning
+Critical Skills: SQL, Tableau
+Optional Skills: Power BI, Docker
+Responsibilities: Data cleaning, Visualization, Business Intelligence

@@ -1,0 +1,5 @@
+Job Title: Business Analyst
+Required Skills: Excel, SQL, Power BI, Communication
+Critical Skills: SQL, Communication
+Optional Skills: Tableau, Python
+Responsibilities: Requirement gathering, Stakeholder analysis, Reporting
