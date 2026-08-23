@@ -1,0 +1,101 @@
+resume_skills,jd_skills,critical_skills,skill_match_percentage,critical_skill_match_percentage,missing_skills_count,critical_missing_skills_count,readiness_label
+"['Tableau', 'Statistics', 'Spring Boot', 'Python']","['Java', 'Python', 'Communication', 'AWS', 'Power BI']","['Power BI', 'Communication']",20.0,0.0,4,2,Not Ready Yet
+"['Spring Boot', 'Python', 'Docker', 'Machine Learning', 'Tableau', 'Power BI']","['SQL', 'Power BI', 'Java', 'Excel']",['SQL'],25.0,0.0,3,1,Not Ready Yet
+"['Spring Boot', 'AWS', 'Machine Learning']","['AWS', 'Power BI', 'Python', 'Communication', 'Tableau', 'Statistics', 'SQL']","['Communication', 'Tableau']",14.285714285714285,0.0,6,2,Not Ready Yet
+"['SQL', 'Excel', 'Power BI', 'Spring Boot', 'Tableau', 'AWS']","['Spring Boot', 'Excel', 'Java', 'Python']","['Excel', 'Java']",50.0,50.0,2,1,Needs Improvement
+"['Python', 'Communication', 'Spring Boot', 'Power BI', 'Java']","['Statistics', 'AWS', 'Spring Boot', 'Machine Learning', 'Python', 'Power BI']",['AWS'],50.0,0.0,3,1,Needs Improvement
+"['Tableau', 'Java', 'AWS', 'Communication']","['Python', 'Docker', 'Excel', 'Java', 'SQL', 'Statistics', 'Tableau']","['Docker', 'Java']",28.57142857142857,50.0,5,1,Not Ready Yet
+"['Python', 'Communication', 'AWS', 'Spring Boot', 'Docker', 'Java']","['Tableau', 'Communication', 'AWS', 'Docker', 'Statistics']","['Tableau', 'Docker']",60.0,50.0,2,1,Moderately Ready
+"['Docker', 'Tableau', 'AWS', 'Python', 'Java', 'Power BI']","['Tableau', 'Excel', 'Spring Boot', 'Statistics', 'Docker', 'Java', 'Power BI']",['Java'],57.14285714285714,100.0,3,0,Moderately Ready
+"['Power BI', 'Java', 'AWS']","['SQL', 'Communication', 'Tableau', 'Java', 'Power BI', 'Excel', 'AWS']","['AWS', 'Excel']",42.857142857142854,50.0,4,1,Needs Improvement
+"['Tableau', 'Power BI', 'Docker', 'Spring Boot']","['Excel', 'Communication', 'Statistics', 'AWS', 'Spring Boot', 'Python', 'Docker']","['Spring Boot', 'Statistics']",28.57142857142857,50.0,5,1,Not Ready Yet
+"['Spring Boot', 'Python', 'Machine Learning', 'Java', 'Docker']","['Tableau', 'Statistics', 'Power BI', 'Python', 'Machine Learning']","['Statistics', 'Tableau']",40.0,0.0,3,2,Needs Improvement
+"['Java', 'SQL', 'Communication', 'Tableau']","['Java', 'Excel', 'Machine Learning', 'Python', 'AWS', 'Tableau', 'Docker']",['Docker'],28.57142857142857,0.0,5,1,Not Ready Yet
+"['Excel', 'Communication', 'Machine Learning']","['Java', 'Tableau', 'AWS', 'Machine Learning', 'Spring Boot', 'Excel', 'Communication']",['Tableau'],42.857142857142854,0.0,4,1,Needs Improvement
+"['Java', 'Power BI', 'AWS', 'Python', 'Tableau']","['Docker', 'Machine Learning', 'Power BI', 'Communication', 'AWS']","['Communication', 'Power BI']",40.0,50.0,3,1,Needs Improvement
+"['Java', 'Python', 'Tableau']","['Java', 'Tableau', 'AWS', 'Statistics', 'Power BI', 'Python']",['Python'],50.0,100.0,3,0,Needs Improvement
+"['Docker', 'AWS', 'SQL', 'Communication', 'Spring Boot', 'Python']","['AWS', 'Power BI', 'Tableau', 'Excel', 'Spring Boot', 'Machine Learning', 'Python']","['Excel', 'AWS']",42.857142857142854,50.0,4,1,Needs Improvement
+"['Java', 'Docker', 'AWS', 'SQL']","['Statistics', 'Spring Boot', 'AWS', 'Docker', 'SQL', 'Machine Learning', 'Power BI']",['Machine Learning'],42.857142857142854,0.0,4,1,Needs Improvement
+"['Power BI', 'Docker', 'Python', 'Statistics', 'SQL', 'Excel']","['Machine Learning', 'Java', 'Power BI', 'AWS', 'Docker', 'Communication', 'Statistics']",['Power BI'],42.857142857142854,100.0,4,0,Needs Improvement
+"['Power BI', 'Python', 'Java', 'Communication']","['Power BI', 'Python', 'Machine Learning', 'Communication']","['Communication', 'Machine Learning']",75.0,50.0,1,1,Moderately Ready
+"['Statistics', 'Python', 'Excel', 'Machine Learning', 'Communication', 'Power BI']","['Power BI', 'Python', 'Tableau', 'Spring Boot']",['Python'],50.0,100.0,2,0,Needs Improvement
+"['Spring Boot', 'Excel', 'AWS', 'Power BI', 'Machine Learning']","['Excel', 'Statistics', 'Tableau', 'SQL', 'Communication']","['Tableau', 'Communication']",20.0,0.0,4,2,Not Ready Yet
+"['Communication', 'AWS', 'Excel', 'Tableau', 'Spring Boot']","['Python', 'Spring Boot', 'Statistics', 'Java', 'SQL', 'AWS', 'Excel']",['Spring Boot'],42.857142857142854,100.0,4,0,Needs Improvement
+"['Statistics', 'Power BI', 'Excel', 'SQL', 'Machine Learning', 'Java']","['Power BI', 'Spring Boot', 'Python', 'Communication', 'SQL']","['SQL', 'Python']",40.0,50.0,3,1,Needs Improvement
+"['Java', 'Power BI', 'SQL']","['Machine Learning', 'Power BI', 'Spring Boot', 'SQL']",['Machine Learning'],50.0,0.0,2,1,Needs Improvement
+"['Docker', 'Tableau', 'Power BI']","['Spring Boot', 'Docker', 'Statistics', 'Communication', 'AWS']","['Communication', 'Docker']",20.0,50.0,4,1,Not Ready Yet
+"['Docker', 'Python', 'Java']","['SQL', 'Spring Boot', 'Python', 'Power BI', 'Machine Learning', 'Tableau', 'AWS']",['Power BI'],14.285714285714285,0.0,6,1,Not Ready Yet
+"['Statistics', 'AWS', 'SQL', 'Power BI']","['Docker', 'Excel', 'AWS', 'SQL', 'Java', 'Machine Learning']","['SQL', 'Docker']",33.33333333333333,50.0,4,1,Needs Improvement
+"['Power BI', 'Java', 'Statistics', 'Docker', 'Machine Learning', 'Python']","['SQL', 'Tableau', 'Spring Boot', 'Python', 'Statistics', 'Power BI', 'Machine Learning']",['Tableau'],57.14285714285714,0.0,3,1,Moderately Ready
+"['Excel', 'AWS', 'Power BI', 'Spring Boot', 'Communication']","['Excel', 'Communication', 'Machine Learning', 'Spring Boot', 'Power BI', 'Statistics', 'Tableau']",['Communication'],57.14285714285714,100.0,3,0,Moderately Ready
+"['Java', 'Spring Boot', 'Power BI']","['Spring Boot', 'Tableau', 'SQL', 'Statistics', 'Power BI', 'Docker']","['SQL', 'Docker']",33.33333333333333,0.0,4,2,Needs Improvement
+"['Machine Learning', 'Communication', 'Power BI']","['SQL', 'Spring Boot', 'Python', 'Communication', 'Power BI', 'Excel']","['Excel', 'Spring Boot']",33.33333333333333,0.0,4,2,Needs Improvement
+"['AWS', 'Communication', 'Machine Learning']","['Python', 'Statistics', 'SQL', 'Java', 'Power BI', 'Spring Boot', 'Communication']",['Spring Boot'],14.285714285714285,0.0,6,1,Not Ready Yet
+"['AWS', 'Python', 'Docker', 'Excel', 'Spring Boot']","['AWS', 'Power BI', 'SQL', 'Java', 'Python']","['SQL', 'Python']",40.0,50.0,3,1,Needs Improvement
+"['Excel', 'Statistics', 'Machine Learning', 'Python', 'SQL']","['Power BI', 'Python', 'Communication', 'Docker', 'AWS']","['Python', 'Docker']",20.0,50.0,4,1,Not Ready Yet
+"['Spring Boot', 'SQL', 'Power BI', 'Docker', 'Java', 'Machine Learning']","['AWS', 'Communication', 'Excel', 'SQL']","['AWS', 'SQL']",25.0,50.0,3,1,Not Ready Yet
+"['Machine Learning', 'Docker', 'AWS']","['SQL', 'Tableau', 'Statistics', 'Java', 'Communication', 'Docker', 'AWS']",['AWS'],28.57142857142857,100.0,5,0,Not Ready Yet
+"['Tableau', 'Docker', 'Python', 'Statistics', 'Power BI', 'Spring Boot']","['Tableau', 'Communication', 'Power BI', 'Python']",['Communication'],75.0,0.0,1,1,Moderately Ready
+"['Communication', 'Spring Boot', 'Java', 'Machine Learning', 'Power BI', 'Python']","['Communication', 'Spring Boot', 'SQL', 'Docker', 'Statistics', 'Tableau', 'Power BI']",['Docker'],42.857142857142854,0.0,4,1,Needs Improvement
+"['Machine Learning', 'SQL', 'Java', 'Tableau']","['Java', 'Docker', 'Excel', 'Spring Boot']",['Java'],25.0,100.0,3,0,Not Ready Yet
+"['Power BI', 'Machine Learning', 'Excel', 'Python']","['Communication', 'Spring Boot', 'Excel', 'Machine Learning', 'Tableau', 'Power BI']",['Excel'],50.0,100.0,3,0,Needs Improvement
+"['Python', 'Spring Boot', 'Power BI', 'Docker', 'Java', 'Statistics']","['Tableau', 'Spring Boot', 'Python', 'Java', 'Machine Learning', 'AWS']","['Machine Learning', 'Tableau']",50.0,0.0,3,2,Needs Improvement
+"['Spring Boot', 'AWS', 'Communication']","['Python', 'Machine Learning', 'Power BI', 'Excel', 'Docker', 'SQL']",['Excel'],0.0,0.0,6,1,Not Ready Yet
+"['Docker', 'AWS', 'Tableau']","['Python', 'Tableau', 'SQL', 'AWS', 'Machine Learning', 'Statistics']","['Statistics', 'SQL']",33.33333333333333,0.0,4,2,Needs Improvement
+"['Excel', 'SQL', 'Power BI', 'AWS', 'Java']","['SQL', 'AWS', 'Spring Boot', 'Power BI', 'Machine Learning', 'Python']",['AWS'],50.0,100.0,3,0,Needs Improvement
+"['Python', 'Spring Boot', 'Statistics', 'Communication', 'Excel', 'AWS']","['Spring Boot', 'Statistics', 'Docker', 'Python']","['Spring Boot', 'Statistics']",75.0,100.0,1,0,Moderately Ready
+"['Spring Boot', 'Docker', 'SQL', 'Excel', 'Python']","['Spring Boot', 'Power BI', 'Tableau', 'Java', 'Communication', 'Excel', 'Docker']",['Docker'],42.857142857142854,100.0,4,0,Needs Improvement
+"['Python', 'Statistics', 'Excel']","['Java', 'Python', 'Machine Learning', 'Spring Boot', 'Statistics', 'AWS', 'Tableau']",['Tableau'],28.57142857142857,0.0,5,1,Not Ready Yet
+"['Communication', 'Machine Learning', 'Java', 'Power BI', 'Docker']","['Power BI', 'SQL', 'Python', 'Statistics']","['Python', 'SQL']",25.0,0.0,3,2,Not Ready Yet
+"['Python', 'Statistics', 'Power BI']","['Tableau', 'Java', 'AWS', 'Docker', 'SQL', 'Power BI']","['Tableau', 'SQL']",16.666666666666664,0.0,5,2,Not Ready Yet
+"['Python', 'Tableau', 'Excel', 'SQL']","['Machine Learning', 'Tableau', 'Docker', 'Spring Boot', 'Python']",['Python'],40.0,100.0,3,0,Needs Improvement
+"['Docker', 'Python', 'Communication', 'Machine Learning', 'Excel']","['Machine Learning', 'Excel', 'Statistics', 'AWS', 'Java']",['Excel'],40.0,100.0,3,0,Needs Improvement
+"['Tableau', 'Spring Boot', 'Excel', 'Docker', 'Java', 'Machine Learning']","['AWS', 'Machine Learning', 'Power BI', 'Docker', 'SQL', 'Java']",['Docker'],50.0,100.0,3,0,Needs Improvement
+"['AWS', 'Tableau', 'Excel', 'Machine Learning', 'Statistics']","['SQL', 'Excel', 'AWS', 'Power BI', 'Machine Learning', 'Tableau', 'Communication']",['Tableau'],57.14285714285714,100.0,3,0,Moderately Ready
+"['Docker', 'Tableau', 'Excel', 'SQL']","['Machine Learning', 'AWS', 'Statistics', 'Java', 'Communication', 'Excel', 'Spring Boot']",['Spring Boot'],14.285714285714285,0.0,6,1,Not Ready Yet
+"['Statistics', 'Machine Learning', 'Excel']","['SQL', 'Statistics', 'Excel', 'Communication', 'Spring Boot']",['Excel'],40.0,100.0,3,0,Needs Improvement
+"['Tableau', 'Power BI', 'SQL']","['Python', 'Java', 'Power BI', 'Excel', 'Statistics', 'Communication']","['Statistics', 'Communication']",16.666666666666664,0.0,5,2,Not Ready Yet
+"['AWS', 'Java', 'Spring Boot', 'Python', 'Communication']","['SQL', 'Machine Learning', 'Communication', 'Tableau', 'Docker', 'Python']",['Python'],33.33333333333333,100.0,4,0,Needs Improvement
+"['Python', 'Tableau', 'Java', 'Excel']","['AWS', 'Tableau', 'SQL', 'Excel', 'Machine Learning', 'Docker', 'Statistics']","['AWS', 'Docker']",28.57142857142857,0.0,5,2,Not Ready Yet
+"['Java', 'Communication', 'SQL', 'Spring Boot', 'Statistics', 'AWS']","['SQL', 'Python', 'Communication', 'Machine Learning', 'Excel', 'Power BI']","['Communication', 'Excel']",33.33333333333333,50.0,4,1,Needs Improvement
+"['Power BI', 'SQL', 'Excel', 'Docker']","['Power BI', 'Spring Boot', 'Tableau', 'Statistics', 'Excel']",['Spring Boot'],40.0,0.0,3,1,Needs Improvement
+"['Statistics', 'Machine Learning', 'Docker', 'Power BI', 'Spring Boot', 'Excel']","['Power BI', 'Docker', 'Machine Learning', 'Spring Boot']","['Docker', 'Machine Learning']",100.0,100.0,0,0,Highly Ready
+"['Excel', 'Python', 'Tableau']","['SQL', 'Spring Boot', 'Power BI', 'Python', 'AWS']",['SQL'],20.0,0.0,4,1,Not Ready Yet
+"['Spring Boot', 'Tableau', 'Machine Learning', 'Communication', 'SQL']","['AWS', 'Statistics', 'Spring Boot', 'Communication', 'Java']","['AWS', 'Statistics']",40.0,0.0,3,2,Needs Improvement
+"['Power BI', 'Python', 'AWS', 'Statistics', 'Spring Boot']","['Docker', 'Machine Learning', 'Java', 'AWS', 'Power BI', 'Spring Boot', 'Communication']",['Power BI'],42.857142857142854,100.0,4,0,Needs Improvement
+"['Java', 'Power BI', 'Spring Boot', 'Python', 'Docker', 'Excel']","['Tableau', 'Java', 'Statistics', 'AWS', 'Docker']","['AWS', 'Java']",40.0,50.0,3,1,Needs Improvement
+"['SQL', 'AWS', 'Machine Learning']","['Python', 'Java', 'Communication', 'Machine Learning']",['Communication'],25.0,0.0,3,1,Not Ready Yet
+"['Python', 'Java', 'Excel', 'Statistics', 'Spring Boot']","['Excel', 'Tableau', 'Spring Boot', 'Communication', 'Docker', 'Machine Learning', 'Java']","['Java', 'Communication']",42.857142857142854,50.0,4,1,Needs Improvement
+"['SQL', 'Tableau', 'Spring Boot']","['SQL', 'Statistics', 'Spring Boot', 'AWS', 'Tableau', 'Power BI', 'Java']",['Tableau'],42.857142857142854,100.0,4,0,Needs Improvement
+"['Spring Boot', 'Excel', 'Python', 'Statistics', 'Java', 'Machine Learning']","['Spring Boot', 'Power BI', 'Excel', 'Communication', 'Statistics', 'SQL', 'Machine Learning']",['Machine Learning'],57.14285714285714,100.0,3,0,Moderately Ready
+"['Java', 'AWS', 'Tableau', 'Spring Boot', 'Statistics', 'Power BI']","['Excel', 'Tableau', 'Python', 'Statistics', 'SQL']",['Python'],40.0,0.0,3,1,Needs Improvement
+"['Tableau', 'Spring Boot', 'Excel', 'Communication', 'Statistics']","['Communication', 'AWS', 'Spring Boot', 'Statistics', 'Machine Learning', 'Java', 'Docker']","['Java', 'Spring Boot']",42.857142857142854,50.0,4,1,Needs Improvement
+"['Communication', 'Power BI', 'Tableau', 'Excel']","['Python', 'Communication', 'Power BI', 'Statistics', 'Excel', 'Tableau', 'Spring Boot']",['Power BI'],57.14285714285714,100.0,3,0,Moderately Ready
+"['Power BI', 'Python', 'Excel']","['Docker', 'Power BI', 'AWS', 'Excel', 'Machine Learning', 'Statistics']","['Power BI', 'Statistics']",33.33333333333333,50.0,4,1,Needs Improvement
+"['Machine Learning', 'Statistics', 'SQL', 'Java']","['Excel', 'Java', 'Docker', 'SQL', 'Python']",['Excel'],40.0,0.0,3,1,Needs Improvement
+"['AWS', 'Machine Learning', 'Statistics', 'Python', 'SQL', 'Java']","['Spring Boot', 'Excel', 'Power BI', 'Python', 'SQL']","['Power BI', 'SQL']",40.0,50.0,3,1,Needs Improvement
+"['Excel', 'Docker', 'Tableau', 'Power BI', 'Statistics', 'Machine Learning']","['Communication', 'Statistics', 'Spring Boot', 'Tableau', 'Power BI']","['Communication', 'Spring Boot']",60.0,0.0,2,2,Moderately Ready
+"['Spring Boot', 'Java', 'AWS', 'Docker']","['Statistics', 'Power BI', 'Java', 'Python', 'AWS', 'Machine Learning', 'Communication']",['Communication'],28.57142857142857,0.0,5,1,Not Ready Yet
+"['Tableau', 'Communication', 'Machine Learning', 'AWS']","['SQL', 'Power BI', 'Java', 'Python', 'Communication', 'Tableau', 'Statistics']","['Power BI', 'Tableau']",28.57142857142857,50.0,5,1,Not Ready Yet
+"['Power BI', 'Statistics', 'AWS', 'Python', 'SQL']","['Docker', 'Statistics', 'Spring Boot', 'Python']","['Docker', 'Spring Boot']",50.0,0.0,2,2,Needs Improvement
+"['SQL', 'Power BI', 'Tableau', 'Spring Boot', 'Docker', 'Statistics']","['SQL', 'Statistics', 'Docker', 'Power BI', 'Machine Learning', 'Excel', 'Python']","['Power BI', 'Statistics']",57.14285714285714,100.0,3,0,Moderately Ready
+"['AWS', 'Statistics', 'SQL', 'Excel', 'Machine Learning']","['Excel', 'Tableau', 'Power BI', 'Java', 'Statistics', 'Spring Boot', 'Python']",['Spring Boot'],28.57142857142857,0.0,5,1,Not Ready Yet
+"['Python', 'Communication', 'Machine Learning', 'Tableau', 'Excel', 'AWS']","['AWS', 'Spring Boot', 'Machine Learning', 'Statistics', 'Python', 'Docker']","['Machine Learning', 'Spring Boot']",50.0,50.0,3,1,Needs Improvement
+"['Python', 'Power BI', 'Statistics', 'Spring Boot', 'SQL']","['Docker', 'SQL', 'AWS', 'Excel', 'Python', 'Statistics']","['Excel', 'Python']",50.0,50.0,3,1,Needs Improvement
+"['Tableau', 'Power BI', 'Java', 'Docker']","['Spring Boot', 'AWS', 'Power BI', 'Machine Learning', 'Communication', 'Tableau']",['Machine Learning'],33.33333333333333,0.0,4,1,Needs Improvement
+"['Machine Learning', 'Java', 'Statistics', 'AWS', 'Communication', 'Excel']","['Excel', 'Spring Boot', 'Python', 'Docker', 'Tableau', 'SQL', 'Communication']","['Tableau', 'Python']",28.57142857142857,0.0,5,2,Not Ready Yet
+"['Java', 'Communication', 'Excel']","['SQL', 'Power BI', 'Communication', 'Tableau', 'Spring Boot', 'AWS', 'Python']","['Communication', 'Power BI']",14.285714285714285,50.0,6,1,Not Ready Yet
+"['Tableau', 'Spring Boot', 'Java', 'SQL']","['SQL', 'Statistics', 'Machine Learning', 'Python', 'Docker', 'AWS', 'Communication']","['SQL', 'Statistics']",14.285714285714285,50.0,6,1,Not Ready Yet
+"['Tableau', 'SQL', 'Power BI', 'Docker', 'Spring Boot', 'Java']","['Spring Boot', 'Power BI', 'Communication', 'Statistics', 'Python', 'Docker', 'Tableau']","['Docker', 'Statistics']",57.14285714285714,50.0,3,1,Moderately Ready
+"['Statistics', 'Excel', 'SQL', 'Python']","['Tableau', 'Spring Boot', 'Machine Learning', 'Java', 'Docker', 'Communication', 'AWS']","['Docker', 'Java']",0.0,0.0,7,2,Not Ready Yet
+"['SQL', 'Python', 'Communication', 'Excel', 'Tableau', 'Java']","['Machine Learning', 'Python', 'Power BI', 'Communication', 'Java']",['Java'],60.0,100.0,2,0,Moderately Ready
+"['Excel', 'Communication', 'Statistics', 'Java', 'Machine Learning', 'AWS']","['Machine Learning', 'Excel', 'Java', 'Python', 'AWS']",['AWS'],80.0,100.0,1,0,Highly Ready
+"['Communication', 'SQL', 'Statistics']","['Tableau', 'Power BI', 'Statistics', 'Excel', 'Python', 'Spring Boot', 'Machine Learning']","['Excel', 'Statistics']",14.285714285714285,50.0,6,1,Not Ready Yet
+"['Statistics', 'SQL', 'Machine Learning', 'Tableau', 'Java']","['SQL', 'Excel', 'Power BI', 'Statistics', 'Communication', 'Docker', 'AWS']",['Docker'],28.57142857142857,0.0,5,1,Not Ready Yet
+"['Power BI', 'Java', 'Docker', 'Machine Learning', 'AWS']","['Machine Learning', 'Communication', 'SQL', 'Tableau', 'Power BI', 'AWS', 'Docker']","['SQL', 'Tableau']",57.14285714285714,0.0,3,2,Moderately Ready
+"['Tableau', 'Java', 'Docker']","['Statistics', 'Python', 'Java', 'AWS', 'Excel', 'Spring Boot', 'Communication']",['Java'],14.285714285714285,100.0,6,0,Not Ready Yet
+"['Statistics', 'Power BI', 'Spring Boot']","['SQL', 'Java', 'Communication', 'Tableau']",['Java'],0.0,0.0,4,1,Not Ready Yet
+"['SQL', 'Spring Boot', 'Tableau', 'Communication', 'Docker', 'AWS']","['Statistics', 'Python', 'Tableau', 'Excel', 'AWS', 'SQL', 'Docker']",['Tableau'],57.14285714285714,100.0,3,0,Moderately Ready
+"['Machine Learning', 'SQL', 'Communication', 'AWS', 'Spring Boot', 'Power BI']","['AWS', 'Spring Boot', 'Docker', 'Machine Learning']",['Machine Learning'],75.0,100.0,1,0,Moderately Ready
+"['Docker', 'Communication', 'Tableau']","['AWS', 'Machine Learning', 'Statistics', 'SQL']",['Statistics'],0.0,0.0,4,1,Not Ready Yet
+"['Docker', 'Spring Boot', 'Java', 'Power BI']","['Java', 'Tableau', 'Communication', 'Machine Learning', 'Power BI', 'Python', 'SQL']","['Tableau', 'Python']",28.57142857142857,0.0,5,2,Not Ready Yet
