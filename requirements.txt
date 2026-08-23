@@ -1,1 +1,21 @@
+# Core app framework
+streamlit==1.62.0
+
+# PDF text extraction
+PyMuPDF==1.28.2
+
+# Machine learning
+scikit-learn==1.9.0
+joblib==1.5.3
+
+# API requests
+requests==2.34.2
+
+# Google Gemini SDK (new package)
+google-genai==2.19.0
+
+# Optional: data handling and visualization
+pandas==3.0.5
+numpy==2.5.2
+matplotlib-inline==0.2.2
 
